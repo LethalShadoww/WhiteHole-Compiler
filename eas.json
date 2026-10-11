@@ -1,0 +1,15 @@
+{
+  "cli": {
+    "version": ">= 10.0.0"
+  },
+  "build": {
+    "preview": {
+      "distribution": "internal"
+    },
+    "sideload_test": {
+      "ios": {
+        "simulator": false
+      }
+    }
+  }
+}
